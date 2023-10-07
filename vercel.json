@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/account/:match*",
-      "destination": "/"
+      "destination": "/account/:match*"
     }
   ]
 }
