@@ -1,6 +1,3 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" },
-    { "source": "/account/my-profile", "destination": "/index.html/account/my-profile" }
-  ]
+  "rewrites": [{ "source": "/account/my-profile", "destination": "/account/my-profile" }]
 }
