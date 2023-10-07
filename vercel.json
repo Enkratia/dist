@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://react-portfolio-deployment.vercel.app/account"
+      "destination": "/"
     }
   ]
 }
