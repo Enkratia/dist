@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/account/:wishlist*",
-      "destination": "/:wishlist*"
+      "destination": "https://react-portfolio-deployment.vercel.app/account/:wishlist*"
     }
   ]
 }
